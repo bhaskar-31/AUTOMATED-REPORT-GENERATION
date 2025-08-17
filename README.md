@@ -62,7 +62,9 @@ Matplotlib (optional) → For creating plots/visualizations.
 
 OpenPyXL (optional) → For Excel file handling if needed.
 
+#OUPUT
 
+<img width="479" height="307" alt="Image" src="https://github.com/user-attachments/assets/ff254069-411e-4a59-9e33-568a848b960d" />
 
 
 
